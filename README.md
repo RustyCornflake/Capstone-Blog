@@ -1,14 +1,14 @@
-Racecar Life
+# 🏁 Racecar Life
 
 A blog web app built with Node.js, Express, and EJS — for muscle car lovers to post, edit, and delete stories of tire-burning glory.
 
 🔗 Live Demo
 
-👉 View on Render https://capstone-blog-e7rs.onrender.com/
+👉 Click here to visit the live blog
 
 🚗 Features
 
-💠 Post creation with title and content
+🔠 Post creation with title and content
 
 ✏️ Edit and update posts
 
@@ -53,3 +53,4 @@ muscle-blog/
 👨‍👷 Author
 
 Sheldon Roberts
+
