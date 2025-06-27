@@ -4,7 +4,7 @@ A blog web app built with Node.js, Express, and EJS — for muscle car lovers to
 
 🔗 Live Demo
 
-👉 View on Render
+👉 View on Render https://capstone-blog-e7rs.onrender.com/
 
 🚗 Features
 
