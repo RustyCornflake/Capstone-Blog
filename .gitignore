@@ -1,1 +1,7 @@
 node_modules/
+git init
+git add .
+git commit -m "Initial commit - Racecar Life Blog"
+git branch -M main
+git remote add origin https://github.com/RustyCornflake/muscle-blog.git
+git push -u origin main
